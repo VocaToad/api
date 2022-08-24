@@ -1,0 +1,3 @@
+[submodule "VocaToadTrainer"]
+	path = VocaToadTrainer
+	url = https://github.com/VocaToad/VocaToadTrainer.git
